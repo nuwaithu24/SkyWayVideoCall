@@ -1,0 +1,16 @@
+PODS:
+  - SkyWayVideoCall (0.1.0)
+
+DEPENDENCIES:
+  - SkyWayVideoCall (from `../`)
+
+EXTERNAL SOURCES:
+  SkyWayVideoCall:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  SkyWayVideoCall: 792b586f102b464bb309dd01521e45f50efd7910
+
+PODFILE CHECKSUM: ef0d2cae73bd1848b361a5428fd0c6e402f030b5
+
+COCOAPODS: 1.11.3

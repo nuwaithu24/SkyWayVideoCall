@@ -1,0 +1,6 @@
+framework module SkyWayVideoCall {
+  umbrella header "SkyWayVideoCall-umbrella.h"
+
+  export *
+  module * { export * }
+}
