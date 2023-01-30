@@ -28,14 +28,14 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
-		7427685DA7F234886CB9FECDC35A79E7 /* PBXContainerItemProxy */ = {
+		056FE86F58E4AA5E056BD82614F4D7D0 /* PBXContainerItemProxy */ = {
 			isa = PBXContainerItemProxy;
 			containerPortal = BFDFE7DC352907FC980B868725387E98 /* Project object */;
 			proxyType = 1;
 			remoteGlobalIDString = 499AB7114A5CB39F142FCA0EE385D0BE;
 			remoteInfo = SkyWayVideoCall;
 		};
-		EB8797239964246060E1C1DE8CB8E570 /* PBXContainerItemProxy */ = {
+		36077849BEB000E90615C96C44E8279D /* PBXContainerItemProxy */ = {
 			isa = PBXContainerItemProxy;
 			containerPortal = BFDFE7DC352907FC980B868725387E98 /* Project object */;
 			proxyType = 1;
@@ -45,7 +45,6 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
-		19E8CFB26641E0A6BB9E57EC7C41CF1C /* SkyWayVideoCall.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = SkyWayVideoCall.release.xcconfig; sourceTree = "<group>"; };
 		205A917B855F51E0846044641B3671B2 /* Pods-SkyWayVideoCall_Example-dummy.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = "Pods-SkyWayVideoCall_Example-dummy.m"; sourceTree = "<group>"; };
 		2C747571F31C2D49D3AE98C9B70A5C5B /* Pods-SkyWayVideoCall_Tests.modulemap */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.module; path = "Pods-SkyWayVideoCall_Tests.modulemap"; sourceTree = "<group>"; };
 		2FCB8D3E62137B288839BC82ECC2D71F /* Pods-SkyWayVideoCall_Example.modulemap */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.module; path = "Pods-SkyWayVideoCall_Example.modulemap"; sourceTree = "<group>"; };
@@ -53,18 +52,16 @@
 		63235AED5998E2670AB7A5F277B550A2 /* Pods-SkyWayVideoCall_Example-acknowledgements.markdown */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text; path = "Pods-SkyWayVideoCall_Example-acknowledgements.markdown"; sourceTree = "<group>"; };
 		6ED006DC15C053B8ED3231E26062F4D5 /* Pods-SkyWayVideoCall_Tests-dummy.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = "Pods-SkyWayVideoCall_Tests-dummy.m"; sourceTree = "<group>"; };
 		73010CC983E3809BECEE5348DA1BB8C6 /* Foundation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Foundation.framework; path = Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS14.0.sdk/System/Library/Frameworks/Foundation.framework; sourceTree = DEVELOPER_DIR; };
+		74D369CD422F8F717A359ADA403B7CB7 /* SkyWayVideoCall.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = SkyWayVideoCall.debug.xcconfig; sourceTree = "<group>"; };
 		76AAD538A5BF44B1A3BEC7CB8263B31B /* Pods-SkyWayVideoCall_Tests-acknowledgements.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = "Pods-SkyWayVideoCall_Tests-acknowledgements.plist"; sourceTree = "<group>"; };
 		7818B291DB8A162358A7B36333FFE91C /* Pods-SkyWayVideoCall_Example.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = "Pods-SkyWayVideoCall_Example.release.xcconfig"; sourceTree = "<group>"; };
 		85369AD007D68ED5F68074E3DF5B7108 /* Pods-SkyWayVideoCall_Tests.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = "Pods-SkyWayVideoCall_Tests.release.xcconfig"; sourceTree = "<group>"; };
-		87181258E5F0AA8ECDFFDBC1A853228B /* LICENSE */ = {isa = PBXFileReference; includeInIndex = 1; path = LICENSE; sourceTree = "<group>"; };
+		8D8B59976A4F3E6583ADB90B4B030DA7 /* SkyWayVideoCall.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = SkyWayVideoCall.release.xcconfig; sourceTree = "<group>"; };
 		95548CA04BC5BDE980F00724A70E957C /* Pods-SkyWayVideoCall_Tests-umbrella.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "Pods-SkyWayVideoCall_Tests-umbrella.h"; sourceTree = "<group>"; };
 		9D940727FF8FB9C785EB98E56350EF41 /* Podfile */ = {isa = PBXFileReference; explicitFileType = text.script.ruby; includeInIndex = 1; indentWidth = 2; lastKnownFileType = text; name = Podfile; path = ../Podfile; sourceTree = SOURCE_ROOT; tabWidth = 2; xcLanguageSpecificationIdentifier = xcode.lang.ruby; };
 		9F0D6445E61BD64E749B7C8357730551 /* Pods-SkyWayVideoCall_Example */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; name = "Pods-SkyWayVideoCall_Example"; path = Pods_SkyWayVideoCall_Example.framework; sourceTree = BUILT_PRODUCTS_DIR; };
-		AFD04EA0AC1D6F2E86AED80147448F48 /* SkyWayVideoCall.podspec */ = {isa = PBXFileReference; explicitFileType = text.script.ruby; includeInIndex = 1; indentWidth = 2; lastKnownFileType = text; path = SkyWayVideoCall.podspec; sourceTree = "<group>"; tabWidth = 2; xcLanguageSpecificationIdentifier = xcode.lang.ruby; };
 		B064C00D10BBE2537115A82EBA0714D7 /* Pods-SkyWayVideoCall_Tests */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; name = "Pods-SkyWayVideoCall_Tests"; path = Pods_SkyWayVideoCall_Tests.framework; sourceTree = BUILT_PRODUCTS_DIR; };
-		B1D2515774FADCB3CE5F3E1385C6D635 /* README.md */ = {isa = PBXFileReference; includeInIndex = 1; path = README.md; sourceTree = "<group>"; };
 		C3F1AAFDF35C4029AAA7233AB330A5F8 /* Pods-SkyWayVideoCall_Example-acknowledgements.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = "Pods-SkyWayVideoCall_Example-acknowledgements.plist"; sourceTree = "<group>"; };
-		C89E7669ABBD3BE626855953101FE496 /* SkyWayVideoCall.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = SkyWayVideoCall.debug.xcconfig; sourceTree = "<group>"; };
 		D4E1ECACC50397278DC1E63E51DE717F /* Pods-SkyWayVideoCall_Example.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = "Pods-SkyWayVideoCall_Example.debug.xcconfig"; sourceTree = "<group>"; };
 		D6A50F39DCD6F0B2129A3AE77B8ECDE2 /* Pods-SkyWayVideoCall_Example-Info.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = "Pods-SkyWayVideoCall_Example-Info.plist"; sourceTree = "<group>"; };
 		DA150E374CE751F2A61F98EEBF9E223C /* Pods-SkyWayVideoCall_Example-umbrella.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "Pods-SkyWayVideoCall_Example-umbrella.h"; sourceTree = "<group>"; };
@@ -92,24 +89,6 @@
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
-		124EEEF5A72CD2E63E0B14CDB0C43F30 /* Development Pods */ = {
-			isa = PBXGroup;
-			children = (
-				6702822211FA8134D2221A6DCBC7AD04 /* SkyWayVideoCall */,
-			);
-			name = "Development Pods";
-			sourceTree = "<group>";
-		};
-		283DDAA306A62A67E918D978D5A8AFBE /* Support Files */ = {
-			isa = PBXGroup;
-			children = (
-				C89E7669ABBD3BE626855953101FE496 /* SkyWayVideoCall.debug.xcconfig */,
-				19E8CFB26641E0A6BB9E57EC7C41CF1C /* SkyWayVideoCall.release.xcconfig */,
-			);
-			name = "Support Files";
-			path = "Example/Pods/Target Support Files/SkyWayVideoCall";
-			sourceTree = "<group>";
-		};
 		29CEEB33C4A36CBE069218509CF221FB /* Products */ = {
 			isa = PBXGroup;
 			children = (
@@ -119,14 +98,14 @@
 			name = Products;
 			sourceTree = "<group>";
 		};
-		2E6083B94F76DF4A23E64DB795DC36FA /* Pod */ = {
+		5775A60604BC181B270C8229D0EE4933 /* Support Files */ = {
 			isa = PBXGroup;
 			children = (
-				87181258E5F0AA8ECDFFDBC1A853228B /* LICENSE */,
-				B1D2515774FADCB3CE5F3E1385C6D635 /* README.md */,
-				AFD04EA0AC1D6F2E86AED80147448F48 /* SkyWayVideoCall.podspec */,
+				74D369CD422F8F717A359ADA403B7CB7 /* SkyWayVideoCall.debug.xcconfig */,
+				8D8B59976A4F3E6583ADB90B4B030DA7 /* SkyWayVideoCall.release.xcconfig */,
 			);
-			name = Pod;
+			name = "Support Files";
+			path = "../Target Support Files/SkyWayVideoCall";
 			sourceTree = "<group>";
 		};
 		578452D2E740E91742655AC8F1636D1F /* iOS */ = {
@@ -135,16 +114,6 @@
 				73010CC983E3809BECEE5348DA1BB8C6 /* Foundation.framework */,
 			);
 			name = iOS;
-			sourceTree = "<group>";
-		};
-		6702822211FA8134D2221A6DCBC7AD04 /* SkyWayVideoCall */ = {
-			isa = PBXGroup;
-			children = (
-				2E6083B94F76DF4A23E64DB795DC36FA /* Pod */,
-				283DDAA306A62A67E918D978D5A8AFBE /* Support Files */,
-			);
-			name = SkyWayVideoCall;
-			path = ../..;
 			sourceTree = "<group>";
 		};
 		754496DF69B9270FC71C62D6F7E07972 /* Targets Support Files */ = {
@@ -176,8 +145,8 @@
 			isa = PBXGroup;
 			children = (
 				9D940727FF8FB9C785EB98E56350EF41 /* Podfile */,
-				124EEEF5A72CD2E63E0B14CDB0C43F30 /* Development Pods */,
 				D210D550F4EA176C3123ED886F8F87F5 /* Frameworks */,
+				FEE08ADD424C014D18DB067CBAFEE87E /* Pods */,
 				29CEEB33C4A36CBE069218509CF221FB /* Products */,
 				754496DF69B9270FC71C62D6F7E07972 /* Targets Support Files */,
 			);
@@ -189,6 +158,15 @@
 				578452D2E740E91742655AC8F1636D1F /* iOS */,
 			);
 			name = Frameworks;
+			sourceTree = "<group>";
+		};
+		DBDCB94CBF71A251BFAE1A999CD7DF50 /* SkyWayVideoCall */ = {
+			isa = PBXGroup;
+			children = (
+				5775A60604BC181B270C8229D0EE4933 /* Support Files */,
+			);
+			name = SkyWayVideoCall;
+			path = SkyWayVideoCall;
 			sourceTree = "<group>";
 		};
 		FBA52F25F06705D39A188C5DB9C413AD /* Pods-SkyWayVideoCall_Example */ = {
@@ -205,6 +183,14 @@
 			);
 			name = "Pods-SkyWayVideoCall_Example";
 			path = "Target Support Files/Pods-SkyWayVideoCall_Example";
+			sourceTree = "<group>";
+		};
+		FEE08ADD424C014D18DB067CBAFEE87E /* Pods */ = {
+			isa = PBXGroup;
+			children = (
+				DBDCB94CBF71A251BFAE1A999CD7DF50 /* SkyWayVideoCall */,
+			);
+			name = Pods;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -241,7 +227,7 @@
 			buildRules = (
 			);
 			dependencies = (
-				CE67022E0BEA6C9B1DDBEED19EDFD320 /* PBXTargetDependency */,
+				4EA07666602E261C71FFA78691FEB8C4 /* PBXTargetDependency */,
 			);
 			name = "Pods-SkyWayVideoCall_Tests";
 			productName = Pods_SkyWayVideoCall_Tests;
@@ -260,7 +246,7 @@
 			buildRules = (
 			);
 			dependencies = (
-				0ABFA289F8D6235676CC57B9EA6B282D /* PBXTargetDependency */,
+				1B289211AB5523BF33A0D2EFB8838738 /* PBXTargetDependency */,
 			);
 			name = "Pods-SkyWayVideoCall_Example";
 			productName = Pods_SkyWayVideoCall_Example;
@@ -333,40 +319,61 @@
 /* End PBXSourcesBuildPhase section */
 
 /* Begin PBXTargetDependency section */
-		0ABFA289F8D6235676CC57B9EA6B282D /* PBXTargetDependency */ = {
+		1B289211AB5523BF33A0D2EFB8838738 /* PBXTargetDependency */ = {
 			isa = PBXTargetDependency;
 			name = SkyWayVideoCall;
 			target = 499AB7114A5CB39F142FCA0EE385D0BE /* SkyWayVideoCall */;
-			targetProxy = 7427685DA7F234886CB9FECDC35A79E7 /* PBXContainerItemProxy */;
+			targetProxy = 056FE86F58E4AA5E056BD82614F4D7D0 /* PBXContainerItemProxy */;
 		};
-		CE67022E0BEA6C9B1DDBEED19EDFD320 /* PBXTargetDependency */ = {
+		4EA07666602E261C71FFA78691FEB8C4 /* PBXTargetDependency */ = {
 			isa = PBXTargetDependency;
 			name = "Pods-SkyWayVideoCall_Example";
 			target = 9AB65785F075046D9ED1F0551AC67201 /* Pods-SkyWayVideoCall_Example */;
-			targetProxy = EB8797239964246060E1C1DE8CB8E570 /* PBXContainerItemProxy */;
+			targetProxy = 36077849BEB000E90615C96C44E8279D /* PBXContainerItemProxy */;
 		};
 /* End PBXTargetDependency section */
 
 /* Begin XCBuildConfiguration section */
-		1C979F9C06A25C4679E71D1446E7C058 /* Debug */ = {
+		052E3A4D3ACCE975C535A8687188F292 /* Debug */ = {
 			isa = XCBuildConfiguration;
-			baseConfigurationReference = C89E7669ABBD3BE626855953101FE496 /* SkyWayVideoCall.debug.xcconfig */;
+			baseConfigurationReference = 5996EDA16946B44D38630991E093F185 /* Pods-SkyWayVideoCall_Tests.debug.xcconfig */;
 			buildSettings = {
-				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
-				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
+				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = NO;
+				ARCHS = "$(ARCHS_STANDARD_64_BIT)";
 				CLANG_ENABLE_OBJC_WEAK = NO;
+				"CODE_SIGN_IDENTITY[sdk=appletvos*]" = "";
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "";
+				"CODE_SIGN_IDENTITY[sdk=watchos*]" = "";
+				CURRENT_PROJECT_VERSION = 1;
+				DEFINES_MODULE = YES;
+				DYLIB_COMPATIBILITY_VERSION = 1;
+				DYLIB_CURRENT_VERSION = 1;
+				DYLIB_INSTALL_NAME_BASE = "@rpath";
+				INFOPLIST_FILE = "Target Support Files/Pods-SkyWayVideoCall_Tests/Pods-SkyWayVideoCall_Tests-Info.plist";
+				INSTALL_PATH = "$(LOCAL_LIBRARY_DIR)/Frameworks";
 				IPHONEOS_DEPLOYMENT_TARGET = 11.0;
-				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
+				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
+				MACH_O_TYPE = staticlib;
+				MODULEMAP_FILE = "Target Support Files/Pods-SkyWayVideoCall_Tests/Pods-SkyWayVideoCall_Tests.modulemap";
+				OTHER_LDFLAGS = "";
+				OTHER_LIBTOOLFLAGS = "";
+				PODS_ROOT = "$(SRCROOT)";
+				PRODUCT_BUNDLE_IDENTIFIER = "org.cocoapods.${PRODUCT_NAME:rfc1034identifier}";
+				PRODUCT_NAME = "$(TARGET_NAME:c99extidentifier)";
 				SDKROOT = iphoneos;
+				SKIP_INSTALL = YES;
 				TARGETED_DEVICE_FAMILY = "1,2";
+				VERSIONING_SYSTEM = "apple-generic";
+				VERSION_INFO_PREFIX = "";
 			};
 			name = Debug;
 		};
-		4C01B30E64E193F7DC92E386E3D7C034 /* Release */ = {
+		4530105E4BC168E5084E0C49400B97E5 /* Release */ = {
 			isa = XCBuildConfiguration;
 			baseConfigurationReference = 7818B291DB8A162358A7B36333FFE91C /* Pods-SkyWayVideoCall_Example.release.xcconfig */;
 			buildSettings = {
 				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = NO;
+				ARCHS = "$(ARCHS_STANDARD_64_BIT)";
 				CLANG_ENABLE_OBJC_WEAK = NO;
 				"CODE_SIGN_IDENTITY[sdk=appletvos*]" = "";
 				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "";
@@ -378,7 +385,7 @@
 				DYLIB_INSTALL_NAME_BASE = "@rpath";
 				INFOPLIST_FILE = "Target Support Files/Pods-SkyWayVideoCall_Example/Pods-SkyWayVideoCall_Example-Info.plist";
 				INSTALL_PATH = "$(LOCAL_LIBRARY_DIR)/Frameworks";
-				IPHONEOS_DEPLOYMENT_TARGET = 10.0;
+				IPHONEOS_DEPLOYMENT_TARGET = 11.0;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
 				MACH_O_TYPE = staticlib;
 				MODULEMAP_FILE = "Target Support Files/Pods-SkyWayVideoCall_Example/Pods-SkyWayVideoCall_Example.modulemap";
@@ -396,11 +403,12 @@
 			};
 			name = Release;
 		};
-		50D91AE63A760A49071449A020B586D6 /* Release */ = {
+		8AA5D64EB7D270879BC78C0C1446B2E1 /* Release */ = {
 			isa = XCBuildConfiguration;
 			baseConfigurationReference = 85369AD007D68ED5F68074E3DF5B7108 /* Pods-SkyWayVideoCall_Tests.release.xcconfig */;
 			buildSettings = {
 				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = NO;
+				ARCHS = "$(ARCHS_STANDARD_64_BIT)";
 				CLANG_ENABLE_OBJC_WEAK = NO;
 				"CODE_SIGN_IDENTITY[sdk=appletvos*]" = "";
 				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "";
@@ -412,7 +420,7 @@
 				DYLIB_INSTALL_NAME_BASE = "@rpath";
 				INFOPLIST_FILE = "Target Support Files/Pods-SkyWayVideoCall_Tests/Pods-SkyWayVideoCall_Tests-Info.plist";
 				INSTALL_PATH = "$(LOCAL_LIBRARY_DIR)/Frameworks";
-				IPHONEOS_DEPLOYMENT_TARGET = 10.0;
+				IPHONEOS_DEPLOYMENT_TARGET = 11.0;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
 				MACH_O_TYPE = staticlib;
 				MODULEMAP_FILE = "Target Support Files/Pods-SkyWayVideoCall_Tests/Pods-SkyWayVideoCall_Tests.modulemap";
@@ -430,7 +438,41 @@
 			};
 			name = Release;
 		};
-		7EE7A78859F657F6BEFC651185B43192 /* Release */ = {
+		8CAFCE31E88B3384C9E93CD9C1705396 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			baseConfigurationReference = D4E1ECACC50397278DC1E63E51DE717F /* Pods-SkyWayVideoCall_Example.debug.xcconfig */;
+			buildSettings = {
+				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = NO;
+				ARCHS = "$(ARCHS_STANDARD_64_BIT)";
+				CLANG_ENABLE_OBJC_WEAK = NO;
+				"CODE_SIGN_IDENTITY[sdk=appletvos*]" = "";
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "";
+				"CODE_SIGN_IDENTITY[sdk=watchos*]" = "";
+				CURRENT_PROJECT_VERSION = 1;
+				DEFINES_MODULE = YES;
+				DYLIB_COMPATIBILITY_VERSION = 1;
+				DYLIB_CURRENT_VERSION = 1;
+				DYLIB_INSTALL_NAME_BASE = "@rpath";
+				INFOPLIST_FILE = "Target Support Files/Pods-SkyWayVideoCall_Example/Pods-SkyWayVideoCall_Example-Info.plist";
+				INSTALL_PATH = "$(LOCAL_LIBRARY_DIR)/Frameworks";
+				IPHONEOS_DEPLOYMENT_TARGET = 11.0;
+				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
+				MACH_O_TYPE = staticlib;
+				MODULEMAP_FILE = "Target Support Files/Pods-SkyWayVideoCall_Example/Pods-SkyWayVideoCall_Example.modulemap";
+				OTHER_LDFLAGS = "";
+				OTHER_LIBTOOLFLAGS = "";
+				PODS_ROOT = "$(SRCROOT)";
+				PRODUCT_BUNDLE_IDENTIFIER = "org.cocoapods.${PRODUCT_NAME:rfc1034identifier}";
+				PRODUCT_NAME = "$(TARGET_NAME:c99extidentifier)";
+				SDKROOT = iphoneos;
+				SKIP_INSTALL = YES;
+				TARGETED_DEVICE_FAMILY = "1,2";
+				VERSIONING_SYSTEM = "apple-generic";
+				VERSION_INFO_PREFIX = "";
+			};
+			name = Debug;
+		};
+		903A0004D3E6651EFD5D2E16214D101B /* Release */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ALWAYS_SEARCH_USER_PATHS = NO;
@@ -480,7 +522,7 @@
 				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
 				GCC_WARN_UNUSED_FUNCTION = YES;
 				GCC_WARN_UNUSED_VARIABLE = YES;
-				IPHONEOS_DEPLOYMENT_TARGET = 10.0;
+				IPHONEOS_DEPLOYMENT_TARGET = 11.0;
 				MTL_ENABLE_DEBUG_INFO = NO;
 				MTL_FAST_MATH = YES;
 				PRODUCT_NAME = "$(TARGET_NAME)";
@@ -492,55 +534,7 @@
 			};
 			name = Release;
 		};
-		9986933E50A7E9EE07781CBECD190217 /* Debug */ = {
-			isa = XCBuildConfiguration;
-			baseConfigurationReference = D4E1ECACC50397278DC1E63E51DE717F /* Pods-SkyWayVideoCall_Example.debug.xcconfig */;
-			buildSettings = {
-				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = NO;
-				CLANG_ENABLE_OBJC_WEAK = NO;
-				"CODE_SIGN_IDENTITY[sdk=appletvos*]" = "";
-				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "";
-				"CODE_SIGN_IDENTITY[sdk=watchos*]" = "";
-				CURRENT_PROJECT_VERSION = 1;
-				DEFINES_MODULE = YES;
-				DYLIB_COMPATIBILITY_VERSION = 1;
-				DYLIB_CURRENT_VERSION = 1;
-				DYLIB_INSTALL_NAME_BASE = "@rpath";
-				INFOPLIST_FILE = "Target Support Files/Pods-SkyWayVideoCall_Example/Pods-SkyWayVideoCall_Example-Info.plist";
-				INSTALL_PATH = "$(LOCAL_LIBRARY_DIR)/Frameworks";
-				IPHONEOS_DEPLOYMENT_TARGET = 10.0;
-				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
-				MACH_O_TYPE = staticlib;
-				MODULEMAP_FILE = "Target Support Files/Pods-SkyWayVideoCall_Example/Pods-SkyWayVideoCall_Example.modulemap";
-				OTHER_LDFLAGS = "";
-				OTHER_LIBTOOLFLAGS = "";
-				PODS_ROOT = "$(SRCROOT)";
-				PRODUCT_BUNDLE_IDENTIFIER = "org.cocoapods.${PRODUCT_NAME:rfc1034identifier}";
-				PRODUCT_NAME = "$(TARGET_NAME:c99extidentifier)";
-				SDKROOT = iphoneos;
-				SKIP_INSTALL = YES;
-				TARGETED_DEVICE_FAMILY = "1,2";
-				VERSIONING_SYSTEM = "apple-generic";
-				VERSION_INFO_PREFIX = "";
-			};
-			name = Debug;
-		};
-		B20928DC2C0170D2362A96D98A84DE8F /* Release */ = {
-			isa = XCBuildConfiguration;
-			baseConfigurationReference = 19E8CFB26641E0A6BB9E57EC7C41CF1C /* SkyWayVideoCall.release.xcconfig */;
-			buildSettings = {
-				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
-				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
-				CLANG_ENABLE_OBJC_WEAK = NO;
-				IPHONEOS_DEPLOYMENT_TARGET = 11.0;
-				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
-				SDKROOT = iphoneos;
-				TARGETED_DEVICE_FAMILY = "1,2";
-				VALIDATE_PRODUCT = YES;
-			};
-			name = Release;
-		};
-		D299434AB35E7FD6F7921C8EF24742FF /* Debug */ = {
+		B4EFE046ACF8F37157F6E322C7FCFC28 /* Debug */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ALWAYS_SEARCH_USER_PATHS = NO;
@@ -593,7 +587,7 @@
 				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
 				GCC_WARN_UNUSED_FUNCTION = YES;
 				GCC_WARN_UNUSED_VARIABLE = YES;
-				IPHONEOS_DEPLOYMENT_TARGET = 10.0;
+				IPHONEOS_DEPLOYMENT_TARGET = 11.0;
 				MTL_ENABLE_DEBUG_INFO = INCLUDE_SOURCE;
 				MTL_FAST_MATH = YES;
 				ONLY_ACTIVE_ARCH = YES;
@@ -606,38 +600,36 @@
 			};
 			name = Debug;
 		};
-		F646CD26C4AA384F3EBFD23A8A0CA7AD /* Debug */ = {
+		B5B5C70F574629BD1AF872841AA680E1 /* Debug */ = {
 			isa = XCBuildConfiguration;
-			baseConfigurationReference = 5996EDA16946B44D38630991E093F185 /* Pods-SkyWayVideoCall_Tests.debug.xcconfig */;
+			baseConfigurationReference = 74D369CD422F8F717A359ADA403B7CB7 /* SkyWayVideoCall.debug.xcconfig */;
 			buildSettings = {
-				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = NO;
+				ARCHS = "$(ARCHS_STANDARD_64_BIT)";
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
 				CLANG_ENABLE_OBJC_WEAK = NO;
-				"CODE_SIGN_IDENTITY[sdk=appletvos*]" = "";
-				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "";
-				"CODE_SIGN_IDENTITY[sdk=watchos*]" = "";
-				CURRENT_PROJECT_VERSION = 1;
-				DEFINES_MODULE = YES;
-				DYLIB_COMPATIBILITY_VERSION = 1;
-				DYLIB_CURRENT_VERSION = 1;
-				DYLIB_INSTALL_NAME_BASE = "@rpath";
-				INFOPLIST_FILE = "Target Support Files/Pods-SkyWayVideoCall_Tests/Pods-SkyWayVideoCall_Tests-Info.plist";
-				INSTALL_PATH = "$(LOCAL_LIBRARY_DIR)/Frameworks";
-				IPHONEOS_DEPLOYMENT_TARGET = 10.0;
-				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
-				MACH_O_TYPE = staticlib;
-				MODULEMAP_FILE = "Target Support Files/Pods-SkyWayVideoCall_Tests/Pods-SkyWayVideoCall_Tests.modulemap";
-				OTHER_LDFLAGS = "";
-				OTHER_LIBTOOLFLAGS = "";
-				PODS_ROOT = "$(SRCROOT)";
-				PRODUCT_BUNDLE_IDENTIFIER = "org.cocoapods.${PRODUCT_NAME:rfc1034identifier}";
-				PRODUCT_NAME = "$(TARGET_NAME:c99extidentifier)";
+				IPHONEOS_DEPLOYMENT_TARGET = 11.0;
+				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				SDKROOT = iphoneos;
-				SKIP_INSTALL = YES;
 				TARGETED_DEVICE_FAMILY = "1,2";
-				VERSIONING_SYSTEM = "apple-generic";
-				VERSION_INFO_PREFIX = "";
 			};
 			name = Debug;
+		};
+		B5F8A5A4DF7267768B417C9B47B1151D /* Release */ = {
+			isa = XCBuildConfiguration;
+			baseConfigurationReference = 8D8B59976A4F3E6583ADB90B4B030DA7 /* SkyWayVideoCall.release.xcconfig */;
+			buildSettings = {
+				ARCHS = "$(ARCHS_STANDARD_64_BIT)";
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
+				CLANG_ENABLE_OBJC_WEAK = NO;
+				IPHONEOS_DEPLOYMENT_TARGET = 11.0;
+				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
+				SDKROOT = iphoneos;
+				TARGETED_DEVICE_FAMILY = "1,2";
+				VALIDATE_PRODUCT = YES;
+			};
+			name = Release;
 		};
 /* End XCBuildConfiguration section */
 
@@ -645,8 +637,8 @@
 		4821239608C13582E20E6DA73FD5F1F9 /* Build configuration list for PBXProject "Pods" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
-				D299434AB35E7FD6F7921C8EF24742FF /* Debug */,
-				7EE7A78859F657F6BEFC651185B43192 /* Release */,
+				B4EFE046ACF8F37157F6E322C7FCFC28 /* Debug */,
+				903A0004D3E6651EFD5D2E16214D101B /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
@@ -654,8 +646,8 @@
 		584060C91D29C28C794ECE8236EE4975 /* Build configuration list for PBXNativeTarget "Pods-SkyWayVideoCall_Tests" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
-				F646CD26C4AA384F3EBFD23A8A0CA7AD /* Debug */,
-				50D91AE63A760A49071449A020B586D6 /* Release */,
+				052E3A4D3ACCE975C535A8687188F292 /* Debug */,
+				8AA5D64EB7D270879BC78C0C1446B2E1 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
@@ -663,8 +655,8 @@
 		D21FA01A5FD607A88501A22B68453E53 /* Build configuration list for PBXAggregateTarget "SkyWayVideoCall" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
-				1C979F9C06A25C4679E71D1446E7C058 /* Debug */,
-				B20928DC2C0170D2362A96D98A84DE8F /* Release */,
+				B5B5C70F574629BD1AF872841AA680E1 /* Debug */,
+				B5F8A5A4DF7267768B417C9B47B1151D /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
@@ -672,8 +664,8 @@
 		F0BE03BD6A47F4CF91188813ABB584C7 /* Build configuration list for PBXNativeTarget "Pods-SkyWayVideoCall_Example" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
-				9986933E50A7E9EE07781CBECD190217 /* Debug */,
-				4C01B30E64E193F7DC92E386E3D7C034 /* Release */,
+				8CAFCE31E88B3384C9E93CD9C1705396 /* Debug */,
+				4530105E4BC168E5084E0C49400B97E5 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
